@@ -19,6 +19,7 @@ public class java_2 {
         q.offer(3);
         q.offer(7);
         q.remove();
+        // remove : 요소 제거, poll : 요소 제거 및 큐가 비었을 때 null 반환.
         q.offer(1);
         q.offer(4);
         q.remove();
